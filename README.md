@@ -76,7 +76,7 @@ Fullstack: integración frontend-backend, CORS, fetch/axios y mini-proyecto fina
 
 ## 🛠 Requisitos
 
--Algun IDE (VSC, Sublime text, Cursor, etc)
+-Algún IDE (VSC, Sublime text, Cursor, etc)
 - Node.js instalado  
 - Git (opcional, pero recomendado)  
 - Navegador moderno (Chrome, Firefox, etc.)
