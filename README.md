@@ -80,7 +80,6 @@ Fullstack: integración frontend-backend, CORS, fetch/axios y mini-proyecto fina
 - Git (opcional, pero recomendado)  
 - Navegador moderno (Chrome, Firefox, etc.)
 
----
 
 ## 🚀 ¿Cómo usar esta guía?
 
@@ -98,7 +97,6 @@ Al finalizar cada semana, intenta el mini-proyecto sugerido.
 📌 Objetivo final
 Construir desde cero una aplicación web fullstack funcional usando React en el frontend, Node.js + Express + MongoDB en el backend, y desplegarla localmente.
 
-📫 Contacto
 Desarrollado con 💻 por @Joselito17821
 
-¡Éxitos en tu proceso de aprendizaje! 🚀 """
+¡Éxitos en tu proceso de aprendizaje! 🚀 
