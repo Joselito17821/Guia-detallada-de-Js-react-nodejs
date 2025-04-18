@@ -98,6 +98,6 @@ Al finalizar cada semana, intenta el mini-proyecto sugerido.
 📌 Objetivo final
 Construir desde cero una aplicación web fullstack funcional usando React en el frontend, Node.js + Express + MongoDB en el backend, y desplegarla localmente.
 
-Desarrollado con 💻 por @Joselito17821
+Desarrollado 💻 por @Joselito17821
 
 ¡Éxitos en tu proceso de aprendizaje! 🚀 
