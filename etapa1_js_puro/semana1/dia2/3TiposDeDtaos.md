@@ -49,3 +49,5 @@ console.log(typeof nombre); // "string"
 2. Declara un objeto con 3 propiedades.
 3. Declara un array de 5 elementos.
 4. Usa `typeof` para mostrar el tipo de cada variable.
+
+Fuente: https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Grammar_and_types
